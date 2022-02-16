@@ -1,6 +1,14 @@
 ### Привет 👋
 
-#### Меня зовут Виктория. Всю жизнь занималась анализом данных, сейчас делаю это **профессионально**.
+#### Меня зовут Виктория.
+#### Всю жизнь занималась анализом данных, сейчас делаю это **профессионально**.
+
+
+Как со мной связаться: 
+
+:phone: +7 968 667-10-78
+
+:black_nib: v.v.bout@yandex.ru
 
 Содержание моего репозитория:
 
@@ -19,8 +27,4 @@
 | DC_new-website-design. Data Camp competition - Evaluation of Landing Page redesign impact on CTR metric | Python, Pandas, SciPy, NumPy, Math, Matplotlib, Plotly, Data preparation, data analysis, data visualization, A/B testing, statistical significance check | Markeing team of an early-stage startup in Germany works on a redesign of the landing page to increase the click through rate and conversion. The changes test has lasted for a few weeks. The task is to measure the impact of the change, to determine if the increase can be due to random chance or if it is statistically significant and to recommend the version of the website to use | https://github.com/vvbout/DC_new-website-design |
 
 
-Как со мной связаться: 
 
-:phone: +7 968 667-10-78
-
-:black_nib: v.v.bout@yandex.ru
