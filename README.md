@@ -9,6 +9,7 @@
 :heavy_check_mark: Мои сертификаты:
 
 https://disk.yandex.ru/i/-oCungSDVQEz3g
+
 https://stepik.org/cert/1346477
 
 Как со мной связаться: 
